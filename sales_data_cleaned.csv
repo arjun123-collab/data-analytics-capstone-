@@ -1,0 +1,26 @@
+OrderID,OrderDate,CustomerName,Region,Category,Product,Quantity,UnitPrice,Discount,Sales,Profit,CustomerAge,SatisfactionRating
+O1001,2024-01-05,John Mensah,South,Technology,Laptop Pro 15,1,1200,0.1,1080,220.0,29.0,4.0
+O1002,2024-01-07,Ama Owusu,Central,Technology,Wireless Mouse,3,25,0.0,75,30.0,34.0,5.0
+O1003,2024-01-10,Kwame Boateng,North,Furniture,Office Chair,2,150,0.05,285,60.0,34.0,3.0
+O1004,2024-01-15,Efua Asante,South,Furniture,Standing Desk,1,350,0.0,350,90.0,41.0,4.0
+O1005,2024-01-18,Yaw Darko,South,Technology,Monitor 27 inch,2,300,0.1,540,120.0,25.0,5.0
+O1006,2024-02-02,John Mensah,South,Furniture,Desk Lamp,4,40,0.0,160,50.0,29.0,4.0
+O1007,2024-02-05,Ama Owusu,Central,Office Supplies,Stapler,10,8,0.0,80,32.0,34.0,4.0
+O1008,2024-02-09,Kwame Boateng,North,Technology,Laptop Pro 15,1,1200,0.15,1020,180.0,38.0,3.0
+O1009,2024-02-14,Efua Asante,South,Office Supplies,Printer Paper Ream,20,5,0.0,100,40.0,41.0,4.0
+O1010,2024-02-20,Yaw Darko,South,Technology,Wireless Mouse,5,25,0.0,125,50.0,25.0,5.0
+O1011,2024-03-01,John Mensah,South,Technology,Monitor 27 inch,1,300,0.0,300,75.0,29.0,4.0
+O1012,2024-03-05,Ama Owusu,Central,Furniture,Office Chair,3,150,0.1,405,81.0,34.0,5.0
+O1013,2024-03-09,Kwame Boateng,North,Furniture,Standing Desk,2,350,0.0,700,175.0,38.0,3.0
+O1014,2024-03-15,Efua Asante,South,Office Supplies,Stapler,15,8,0.0,120,48.0,41.0,4.0
+O1015,2024-03-22,Yaw Darko,South,Technology,Laptop Pro 15,1,1200,0.2,960,150.0,25.0,5.0
+O1016,2024-04-02,John Mensah,South,Technology,Wireless Mouse,6,25,0.0,150,60.0,29.0,4.0
+O1017,2024-04-08,Ama Owusu,Central,Office Supplies,Printer Paper Ream,25,5,0.0,125,50.0,34.0,5.0
+O1018,2024-04-12,Kwame Boateng,North,Furniture,Desk Lamp,3,40,0.05,114,35.0,38.0,3.0
+O1019,2024-04-19,Efua Asante,South,Technology,Monitor 27 inch,2,300,0.0,600,150.0,41.0,4.0
+O1020,2024-05-03,Yaw Darko,South,Furniture,Office Chair,4,150,0.0,600,120.0,25.0,5.0
+O1021,2024-05-10,John Mensah,South,Furniture,Standing Desk,1,350,0.0,350,90.0,29.0,4.0
+O1022,2024-05-17,Ama Owusu,Central,Technology,Laptop Pro 15,2,1200,0.1,2160,440.0,34.0,5.0
+O1023,2024-05-25,Kwame Boateng,North,Office Supplies,Stapler,8,8,0.0,64,25.6,38.0,3.0
+O1024,2024-06-01,Efua Asante,South,Technology,Wireless Mouse,4,25,0.0,100,40.0,41.0,4.0
+O1025,2024-06-08,Yaw Darko,South,Office Supplies,Printer Paper Ream,10,5,0.0,50,20.0,25.0,5.0
