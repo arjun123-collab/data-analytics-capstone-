@@ -1,0 +1,16 @@
+Insights:
+1. Technology is the top-performing category, driven heavily by laptop sales.
+2. Office Supplies has the highest order volume but the lowest revenue per order, due to low unit prices.
+3. The South region leads in total sales, more than double the North region.
+4. Sales and Profit are strongly correlated (0.81) - high-value orders reliably generate proportional profit.
+5. May was the peak sales month, coinciding with a large bulk laptop order (O1022, $2,160).
+
+Highest/Lowest:
+Highest category - Technology (7,110 in sales)
+Lowest category - Office Supplies (539 in sales)
+Highest region - South
+Lowest region - North
+
+Recommendations:
+1. Expand Technology inventory and marketing, since it drives the most revenue and profit.
+2. Investigate underperformance in the North region - targeted promotions could help close the gap with South.
